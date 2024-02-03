@@ -1,2 +1,2 @@
 # QUIIT
-Simple Issue Tracking At Once
+Quick, Uncomplicated, Instant Issue Tracker
